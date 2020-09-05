@@ -30,6 +30,7 @@ I prefer the terminal for git. Asmae Toumi tells me that there's a GUI in RStudi
 Here are my incantations for git terminal:
 ``` {eval = FALSE}
 git checkout main # make sure you're on the main branch
+
 git pull upstream # get latest changes from upstream repository on GH
 
 # CRITICALLY IMPORTANT FOR PAIN FREE GIT - DO NOT MAKE ANY CHANGES TO THE MAIN BRANCH
